@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.b1nd.dodam.student",
+      "sha256_cert_fingerprints": [
+        "6F:7F:78:D2:9C:E8:9B:85:B4:DF:B2:55:BD:36:03:03:1B:D6:24:90:5D:AB:C5:9F:6B:C4:89:4E:3C:B0:09:98"
+      ]
+    }
+  }
+]
