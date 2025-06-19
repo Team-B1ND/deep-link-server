@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["B42SPPS3PR.com.b1nd.dodam.student"],
+        "components": [
+          {
+            "/": "*"
+          }
+        ]
+      }
+    ]
+  }
+}
