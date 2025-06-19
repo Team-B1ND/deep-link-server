@@ -47,4 +47,4 @@ jobs:
             docker login -u ${{ secrets.DOCKERHUB_USERNAME }} -p ${{ secrets.DOCKERHUB_PASSWORD }}
             docker compose -f dauth-docker-compose.yml stop dodam-deep-link
             docker compose -f dauth-docker-compose.yml rm -f dodam-deep-link
-            docker compose -f dauthdocker-compose.yml up dodam-deep-link --pull always -d
+            docker compose -f dauth-docker-compose.yml up dodam-deep-link --pull always -d
