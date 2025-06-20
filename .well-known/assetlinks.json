@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.b1nd.dodam.student",
       "sha256_cert_fingerprints": [
-        "46:A7:11:3B:D7:C6:47:94:E9:17:8A:3D:4F:6B:12:69:1F:E0:F4:D0:E7:55:D9:A3:DB:34:97:CB:42:01:7A:0B"
+        "46:A7:11:3B:D7:C6:47:94:E9:17:8A:3D:4F:6B:12:69:1F:E0:F4:D0:E7:55:D9:A3:DB:34:97:CB:42:01:7A:0B",
+        "6F:7F:78:D2:9C:E8:9B:85:B4:DF:B2:55:BD:36:03:03:1B:D6:24:90:5D:AB:C5:9F:6B:C4:89:4E:3C:B0:09:98"
       ]
     }
   }
